@@ -1,0 +1,5 @@
+# This is a simple configuration file
+
+VAR1=Thursday
+
+VAR2=4
