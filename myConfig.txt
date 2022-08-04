@@ -5,3 +5,6 @@ VAR1=Thursday
 VAR2=4
 
 VAR3=NewValue
+
+
+VAR5=7
