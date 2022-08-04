@@ -6,3 +6,4 @@ VAR2=4
 
 VAR3 = 'cool classroom!'
 
+VAR4="Merge conflicts are not scary. Git just needs a bit of help combining the changes. (P.S. it's just text editing)"
